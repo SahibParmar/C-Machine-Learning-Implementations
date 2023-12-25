@@ -2,6 +2,7 @@
 Welcome to CML-Algorithms! This repository hosts a collection of machine learning algorithms implemented in C, along with essential matrix operations to support these algorithms.
 
 **Contents**
+
     Machine_Learning.h: Header file containing the following functions:
         LinearRegression: Performs linear regression on input data.
         predict: Makes predictions using the trained linear regression model.
